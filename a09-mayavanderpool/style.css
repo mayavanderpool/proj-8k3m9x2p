@@ -1,0 +1,19 @@
+.plot{
+	display: inline-block;
+}
+
+.label{
+	text-align: center;
+}
+
+.tooltip{
+	position: absolute;
+	opacity: 0;
+}
+
+.tooltip.show{
+	opacity: 1;
+	background: grey;
+	color: white;
+	padding: 2px;
+}

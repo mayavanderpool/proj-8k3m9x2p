@@ -1,0 +1,13 @@
+/*Author: Maya Vanderpool File: style.css Purpose: Style extra credit portion for a06.js */
+
+#color-box{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 5px;
+}
+
+.pointLabel{
+	font-size: 13px;
+}
